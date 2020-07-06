@@ -1,15 +1,7 @@
-/*
-
-Lavish HTML CSS Template
-
-https://templatemo.com/tm-458-lavish
-		
-*/
-
 body
 {
-	background: #000000;
-	color: #999;
+	background: #032440;
+	color: #ffffff;
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
@@ -214,7 +206,7 @@ h1,h2,h3,h4,h5
 /* start work */
 #work
     {
-        background: #1a1a1a;
+        background: #042c4e ;
     }
 #work h2
     {
@@ -290,7 +282,7 @@ h1,h2,h3,h4,h5
 /* start portfolio */
 #portfolio
     {
-        background: #1a1a1a;
+        background: #032440;
         text-align: center;
     }
 #portfolio h2
